@@ -1,4 +1,6 @@
-<strong>Important</strong><br>
+In order to view the abstract and the poster, you will have to download them first. Abstract is a Word Document file and poster is a PowerPoint.
+
+<strong><span style="color:red;">Important</span></strong><br>
 <i>
 Please note that the poster has 4 gifs which shows the functionality of the product.
 These gifs will only play if you start the slide and view it as a full screen.
